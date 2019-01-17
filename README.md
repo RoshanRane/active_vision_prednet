@@ -24,3 +24,8 @@ I could think of the following techniques - saccadic vision-like, fovea-like, us
 
 (5) Study this problem as a Reinforcement learning problem and argue if the problems faced by today's RL techniques are also applicable here ?
 It goes something like this - the top-down makes a series of choices /actions through the time span of the video. These actions could be, for example, selecting the next region to focus on in a saccadic-based model or fovea-based model. Each action is selected conditional on the previous sequence of actions and inputs just like any other RL problem. At the end of the video the model predicts the action class of the video. A policy gradient then helps the model to learn the right policy (the sequence of actions that lead to correct action classification of the video) from the wrong ones.
+
+### Architecture :
+Vanilla PredNet            |  Active PredNet
+:-------------------------:|:-------------------------:
+<img src="https://github.com/RoshanRane/Predictive-video-classification/blob/master/Vanilla_PredNet.png"  height="750" width="400"/> | <img src="https://github.com/RoshanRane/active_vision_prednet/blob/master/PredNet_active.jpg"  height="750" width="400" align="right"/>
