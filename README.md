@@ -28,4 +28,4 @@ It goes something like this - the top-down makes a series of choices /actions th
 ### Architecture :
 Vanilla PredNet            |  Active PredNet
 :-------------------------:|:-------------------------:
-<img src="https://github.com/RoshanRane/active_vision_prednet/blob/master/PredNet_Vanilla.jpg"  height="750" width="400"/> | <img src="https://github.com/RoshanRane/active_vision_prednet/blob/master/PredNet_active.png"  height="750" width="400" align="right"/>
+<img src="https://github.com/RoshanRane/active_vision_prednet/blob/master/PredNet_Vanilla.jpg"  height="450" width="400"/> | <img src="https://github.com/RoshanRane/active_vision_prednet/blob/master/PredNet_active.png"  height="450" width="400" align="right"/>
